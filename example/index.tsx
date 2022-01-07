@@ -6,13 +6,13 @@ import * as ReactDOM from 'react-dom';
 //   ProductImage,
 //   ProductTitle,
 //   ProductButtons,
-// } from 'ejbl-product-card-yiye';
+// } from '';
 
-// const product = {
-//   id: "1",
-//   title: "Coffee Mug - Card",
-//   // img: "./coffee-mug.png",
-// };
+const product = {
+  id: "1",
+  title: "Coffee Mug - Card",
+  // img: "./coffee-mug.png",
+};
 
 const App = () => {
   return (
